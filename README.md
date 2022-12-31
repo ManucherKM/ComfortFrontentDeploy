@@ -10,6 +10,7 @@
 
 ## Web application
 
+At the moment, the backend of the web application is disabled, so the site may not work correctly.
 [Сomfort](https://comfort-frontent-deploy.vercel.app)
 
 ## Preview
